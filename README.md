@@ -65,16 +65,6 @@ Antes de iniciar o app, é necessário configurar o endereço do backend:
 - Marcar tarefa como concluída
 - Excluir tarefa (com confirmação)
 
-## ☁️ Como subir no GitHub
-
-```bash
-git init
-git add .
-git commit -m "App React Native Expo - CRUD de tarefas"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-git push -u origin main
-```
 
 ## 🛠️ Tecnologias
 
