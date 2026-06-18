@@ -5,7 +5,7 @@ Aplicativo mobile em **React Native + Expo** que consome uma API própria
 de tarefas.
 
 > Esse app depende do backend **tarefas-api**. Repositório do backend:
-> `<COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DA_API>`
+> https://github.com/lucasquerubim/tarefas-api
 
 ## 📂 Estrutura do projeto
 
